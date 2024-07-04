@@ -14,6 +14,9 @@ public class Phone {
     public String getturnon(){
         return this.trunon;
     }
+    public String getBrand(){
+        return this.brand;
+    }
 
 
 
